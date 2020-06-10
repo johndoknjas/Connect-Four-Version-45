@@ -1,0 +1,4 @@
+Comp won 13 games, I won 1 game, we drew 0.
+
+This was when I used 1.0 for the thinking_time.
+But now 1.0 is too long with how I've changed the engine to muse.
