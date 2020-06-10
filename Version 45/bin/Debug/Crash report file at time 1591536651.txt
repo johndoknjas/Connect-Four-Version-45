@@ -1,0 +1,1 @@
+User input for user's move not received from Python interface after waiting for 60 seconds.

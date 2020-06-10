@@ -1,0 +1,1 @@
+User input for starting position choice not received from Python interface after waiting for 20 seconds.
