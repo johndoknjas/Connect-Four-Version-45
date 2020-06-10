@@ -15,4 +15,4 @@ After doing this, there are a few ways to run the application:
   - Or, go inside main.cpp, and set the global bool "talk_with_python" to true. Compile the new project, and then
     open and run the "interface.py" file in /bin/Debug. This will allow you to use a Python interface, which will
     call the .exe program in the background.
-       - Currently the Python user interface is as fairly plain, but I'm planning to add a GUI in a future version.
+       - Currently the Python user interface is fairly plain, but I'm planning to add a GUI in a future version.
