@@ -1,5 +1,3 @@
-# Connect-Four-AI---Version-44-June-3-2020
-
 You can play Connect Four against this engine.
 
 For positions at and below 9 ply, the engine may communicate with a DB (via SQLite) to evaluate them and find a good move.
